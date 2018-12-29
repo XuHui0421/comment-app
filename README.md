@@ -12,6 +12,6 @@
 ### 总结
 1. 了解了react的基本概念和基础语法等知识
 2. 了解了react的生命周期、父子组件交互、传值
-3. 了解高阶组件、context、redux基本实现原理
+3. 了解高阶组件、context的概念以及redux基本实现原理
 
 参考文档：http://huziketang.mangojuice.top/books/react/
